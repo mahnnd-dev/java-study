@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-framework/session01-maven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session02-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/layer-architecture/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/many-to-many/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/many-to-one/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/one-to-many/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session04-di.ioc/loose-coupling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session04-di.ioc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session04-di.ioc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session04-di.ioc/tight-coupling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session05-spring/ioc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session05-spring/no-ioc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session06-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework/session07-springmvc/src/main/java" charset="UTF-8" />
+  </component>
+</project>

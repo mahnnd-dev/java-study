@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="session02-jdbc" />
+        <module name="many-to-many" />
+        <module name="many-to-one" />
+        <module name="session06-springboot" />
+        <module name="tight-coupling" />
+        <module name="no-ioc" />
+        <module name="session01-maven" />
+        <module name="ioc" />
+        <module name="layer-architecture" />
+        <module name="one-to-many" />
+        <module name="session07-springmvc" />
+        <module name="loose-coupling" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ioc" target="8" />
+      <module name="layer-architecture" target="8" />
+      <module name="loose-coupling" target="8" />
+      <module name="many-to-many" target="8" />
+      <module name="many-to-one" target="8" />
+      <module name="no-ioc" target="8" />
+      <module name="one-to-many" target="8" />
+      <module name="session01-maven" target="8" />
+      <module name="session02-jdbc" target="8" />
+      <module name="session03-orm.jpa" target="8" />
+      <module name="session04-di.ioc" target="8" />
+      <module name="session05-spring" target="8" />
+      <module name="session06-springboot" target="1.8" />
+      <module name="session07-springmvc" target="1.8" />
+      <module name="spring-framework" target="1.8" />
+      <module name="tight-coupling" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ioc" options="-parameters" />
+      <module name="layer-architecture" options="-parameters" />
+      <module name="loose-coupling" options="-parameters" />
+      <module name="many-to-many" options="-parameters" />
+      <module name="many-to-one" options="-parameters" />
+      <module name="no-ioc" options="-parameters" />
+      <module name="one-to-many" options="-parameters" />
+      <module name="session01-maven" options="-parameters" />
+      <module name="session02-jdbc" options="-parameters" />
+      <module name="session03-orm.jpa" options="-parameters" />
+      <module name="session04-di.ioc" options="-parameters" />
+      <module name="session05-spring" options="-parameters" />
+      <module name="session06-springboot" options="-parameters" />
+      <module name="session07-springmvc" options="-parameters" />
+      <module name="spring-framework" options="-parameters" />
+      <module name="tight-coupling" options="-parameters" />
+    </option>
+  </component>
+</project>

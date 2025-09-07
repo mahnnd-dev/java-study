@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-core/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/java-core/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session05-spring/ioc/ioc.iml" filepath="$PROJECT_DIR$/spring-framework/session05-spring/ioc/ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core/java-core.iml" filepath="$PROJECT_DIR$/java-core/java-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-study.iml" filepath="$PROJECT_DIR$/java-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/layer-architecture/layer-architecture.iml" filepath="$PROJECT_DIR$/spring-framework/session03-orm.jpa/layer-architecture/layer-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session04-di.ioc/loose-coupling/loose-coupling.iml" filepath="$PROJECT_DIR$/spring-framework/session04-di.ioc/loose-coupling/loose-coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/many-to-many/many-to-many.iml" filepath="$PROJECT_DIR$/spring-framework/session03-orm.jpa/many-to-many/many-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/many-to-one/many-to-one.iml" filepath="$PROJECT_DIR$/spring-framework/session03-orm.jpa/many-to-one/many-to-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session05-spring/no-ioc/no-ioc.iml" filepath="$PROJECT_DIR$/spring-framework/session05-spring/no-ioc/no-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/one-to-many/one-to-many.iml" filepath="$PROJECT_DIR$/spring-framework/session03-orm.jpa/one-to-many/one-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core/oop/oop.iml" filepath="$PROJECT_DIR$/java-core/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session01-maven/session01-maven.iml" filepath="$PROJECT_DIR$/spring-framework/session01-maven/session01-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session02-jdbc/session02-jdbc.iml" filepath="$PROJECT_DIR$/spring-framework/session02-jdbc/session02-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session03-orm.jpa/session03-orm.jpa.iml" filepath="$PROJECT_DIR$/spring-framework/session03-orm.jpa/session03-orm.jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session04-di.ioc/session04-di.ioc.iml" filepath="$PROJECT_DIR$/spring-framework/session04-di.ioc/session04-di.ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session05-spring/session05-spring.iml" filepath="$PROJECT_DIR$/spring-framework/session05-spring/session05-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session06-springboot/session06-springboot.iml" filepath="$PROJECT_DIR$/spring-framework/session06-springboot/session06-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session07-springmvc/session07-springmvc.iml" filepath="$PROJECT_DIR$/spring-framework/session07-springmvc/session07-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core/solid/solid.iml" filepath="$PROJECT_DIR$/java-core/solid/solid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-framework.iml" filepath="$PROJECT_DIR$/spring-framework/spring-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/session04-di.ioc/tight-coupling/tight-coupling.iml" filepath="$PROJECT_DIR$/spring-framework/session04-di.ioc/tight-coupling/tight-coupling.iml" />
+    </modules>
+  </component>
+</project>
