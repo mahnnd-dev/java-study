@@ -1,0 +1,5 @@
+- Dependency
+- Tight coupling: liên kết chặt chẽ
+- Loose coupling: liên kết lỏng lẻo
+- Dependency Injection
+- Ioc
